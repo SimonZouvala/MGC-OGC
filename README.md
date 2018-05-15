@@ -1,4 +1,4 @@
-# Bachelor thesis about calculations and application of partial atomic charges with Molecular Graph Charge (MGC) and Orbit Graph Graph (OGC).
+# Bachelor thesis about calculations and application of partial atomic charges with Molecular Graph Charge (MGC) and Orbital Graph Charge (OGC).
 by Šimon Zouvala  "445475 (at) mail (dot) muni (dot) cz"
 github link: https://github.com/SimonZouvala/MGC-OGC
 
